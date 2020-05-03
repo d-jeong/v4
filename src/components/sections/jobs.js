@@ -134,7 +134,7 @@ const StyledTabContent = styled.div`
   }
 `;
 const StyledJobTitle = styled.h4`
-  color: ${colors.lightestSlate};
+  color: ${colors.tertiaryText};
   font-size: ${fontSizes.xxl};
   font-weight: 500;
   margin-bottom: 5px;

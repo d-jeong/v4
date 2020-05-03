@@ -82,7 +82,7 @@ const StyledFolder = styled.div`
 const StyledPostName = styled.h5`
   margin: 0 0 10px;
   font-size: ${fontSizes.xxl};
-  color: ${colors.lightestSlate};
+  color: ${colors.tertiaryText};
 `;
 const StyledPostDescription = styled.div`
   font-size: 17px;
