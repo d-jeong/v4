@@ -5,7 +5,7 @@ module.exports = {
     '',
   siteKeywords:
     // TODO: Write keywords later
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    '',
 
   // TODO: Write real url later
   siteUrl: 'https://brittanychiang.com',
