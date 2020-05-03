@@ -48,7 +48,7 @@ const StyledDescription = styled.div`
   z-index: 2;
   padding: 25px;
   background-color: ${colors.lightNavy};
-  color: ${colors.lightSlate};
+  color: ${colors.secondaryText};
   font-size: ${fontSizes.lg};
   border-radius: ${theme.borderRadius};
   ${media.thone`

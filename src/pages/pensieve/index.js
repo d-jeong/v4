@@ -86,13 +86,13 @@ const StyledPostName = styled.h5`
 `;
 const StyledPostDescription = styled.div`
   font-size: 17px;
-  color: ${colors.lightSlate};
+  color: ${colors.secondaryText};
 `;
 const StyledDate = styled.span`
   text-transform: uppercase;
   font-family: ${fonts.SFMono};
   font-size: ${fontSizes.xs};
-  color: ${colors.lightSlate};
+  color: ${colors.secondaryText};
 `;
 const StyledTags = styled.ul`
   display: flex;

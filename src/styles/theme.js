@@ -10,7 +10,7 @@ const theme = {
     lightNavy: '#172a45',
     lightestNavy: '#303C55',
     primaryText: '#252525',
-    lightSlate: '#a8b2d1',
+    secondaryText: '#7c7c7c',
     lightestSlate: '#ccd6f6',
     white: '#e6f1ff',
     accent: ACCENT,

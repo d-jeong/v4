@@ -147,7 +147,7 @@ const StyledJobDetails = styled.h5`
   font-size: ${fontSizes.smish};
   font-weight: normal;
   letter-spacing: 0.05em;
-  color: ${colors.lightSlate};
+  color: ${colors.secondaryText};
   margin-bottom: 30px;
   svg {
     width: 15px;

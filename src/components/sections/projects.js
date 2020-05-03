@@ -79,7 +79,7 @@ const StyledFolder = styled.div`
 `;
 const StyledProjectLinks = styled.div`
   margin-right: -10px;
-  color: ${colors.lightSlate};
+  color: ${colors.secondaryText};
 `;
 const StyledIconLink = styled.a`
   position: relative;
@@ -97,7 +97,7 @@ const StyledProjectName = styled.h5`
 `;
 const StyledProjectDescription = styled.div`
   font-size: 17px;
-  color: ${colors.lightSlate};
+  color: ${colors.secondaryText};
   a {
     ${mixins.inlineLink};
   }
