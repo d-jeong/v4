@@ -32,7 +32,7 @@ const Sidebar = styled.aside`
   right: 0;
   margin-left: auto;
   font-family: ${fonts.SFMono};
-  box-shadow: -10px 0px 30px -15px ${colors.shadowNavy};
+  box-shadow: -10px 0px 30px -15px ${colors.shadowBackground};
   ${media.thone`padding: 25px;`};
   ${media.phablet`width: 75vw;`};
   ${media.tiny`padding: 10px;`};
@@ -63,7 +63,7 @@ const NavListItem = styled.li`
   &:before {
     display: block;
     content: '0' counter(item) '.';
-    color: ${colors.green};
+    color: ${colors.accent};
     font-size: ${fontSizes.sm};
     margin-bottom: 5px;
   }

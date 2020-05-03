@@ -1,6 +1,6 @@
 import { hex2rgba } from '@utils';
 
-const ACCENT = '#64ffda';
+const ACCENT = '#ee2777';
 const BG = '#ffffff';
 
 const theme = {
@@ -13,7 +13,7 @@ const theme = {
     lightSlate: '#a8b2d1',
     lightestSlate: '#ccd6f6',
     white: '#e6f1ff',
-    green: ACCENT,
+    accent: ACCENT,
     transGreen: hex2rgba(ACCENT, 0.07),
     shadowBackground: hex2rgba('#444444', 0.7),
   },
