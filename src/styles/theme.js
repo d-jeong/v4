@@ -1,13 +1,13 @@
 import { hex2rgba } from '@utils';
 
-const ACCENT = '#ee2777';
+const ACCENT = '#9c0e0e';
 const BG = '#ffffff';
 
 const theme = {
   colors: {
     splashBackground: BG,
     background: BG,
-    lightNavy: '#172a45',
+    highlightedBackground: hex2rgba('#fbfbfb', 0.9),
     lightestNavy: '#303C55',
     primaryText: '#252525',
     secondaryText: '#969696',
