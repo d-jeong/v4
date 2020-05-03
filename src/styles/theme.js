@@ -7,7 +7,7 @@ const BG = '#ffffff';
 const theme = {
   colors: {
     darkNavy: DARK_BG,
-    navy: BG,
+    background: BG,
     lightNavy: '#172a45',
     lightestNavy: '#303C55',
     slate: '#8892b0',
