@@ -7,7 +7,7 @@ const theme = {
   colors: {
     splashBackground: BG,
     background: BG,
-    highlightedBackground: hex2rgba('#fbfbfb', 0.9),
+    highlightedBackground: hex2rgba('#1A1C24', 0.9),
     lightestNavy: '#303C55',
     primaryText: '#252525',
     secondaryText: '#969696',
@@ -15,7 +15,7 @@ const theme = {
     white: '#e6f1ff',
     accent: ACCENT,
     transAccent: hex2rgba(ACCENT, 0.07),
-    shadowBackground: hex2rgba('#444444', 0.7),
+    shadowBackground: hex2rgba('#16181e', 0.7),
     xcodeKeywords: '#B21889',
     xcodeDeclarations: '#41A1C0',
     xcodePlain: '#FFFFFF',
