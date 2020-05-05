@@ -20,6 +20,7 @@ const theme = {
     xcodeDeclarations: '#41A1C0',
     xcodePlain: '#FFFFFF',
     xcodeStrings: '#DB2C38',
+    xcodeComments: '#41B645',
   },
 
   fonts: {
