@@ -2,18 +2,18 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
+  - iOS Development
   - Node.js
-  - WordPress
+  - Swift
+  - Git
+  - Objective-C
+  - Super Smash Bros
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm David, a software enginner based in New York City.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I love creating iOS apps that are beautiful and fun to use. On my free time, you can find me at a basketball court or in the middle of a Super Smash Bros. Melee match.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Upon graduating from [Harvard University](https://www.seas.harvard.edu/computer-science), I joined the iOS team at [ESPN](http://www.espn.com/espn/apps/espn), where I had the chance to begin my career with meaningful projects that would impact sports fans worldwide. Soon afterwards, I found myself at [Barstool Sports](https://www.barstoolsports.com/), where I currently deliver new features for numerous apps on a daily basis.
 
-Here are a few technologies I've been working with recently:
+Here are some of the skills I have learned along the way:
