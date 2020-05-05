@@ -35,6 +35,9 @@ export const pageQuery = graphql`
       edges {
         node {
           frontmatter {
+            let
+            greeting
+            equals
             title
             name
             subtitle

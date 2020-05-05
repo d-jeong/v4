@@ -67,7 +67,12 @@ const Hero = ({ data }) => {
   const { frontmatter, html } = data[0].node;
 
   const one = () => (
-    <StyledOverline style={{ transitionDelay: '100ms' }}>{frontmatter.title}</StyledOverline>
+    <StyledOverline style={{ transitionDelay: '100ms' }}>
+      <span style={{ color: colors.xcodeKeywords }}>{frontmatter.let} </span>
+      <span style={{ color: colors.xcodeDeclarations }}>{frontmatter.greeting} </span>
+      <span style={{ color: colors.xcodePlain }}>{frontmatter.equals} </span>
+      <span style={{ color: colors.xcodeStrings }}>{frontmatter.title}</span>
+    </StyledOverline>
   );
   const two = () => (
     <StyledTitle style={{ transitionDelay: '200ms' }}>{frontmatter.name}.</StyledTitle>

@@ -1,7 +1,7 @@
 import { hex2rgba } from '@utils';
 
-const ACCENT = '#9c0e0e';
-const BG = '#ffffff';
+const ACCENT = '#5DD8FF';
+const BG = '#1E2028';
 
 const theme = {
   colors: {
@@ -16,6 +16,10 @@ const theme = {
     accent: ACCENT,
     transAccent: hex2rgba(ACCENT, 0.07),
     shadowBackground: hex2rgba('#444444', 0.7),
+    xcodeKeywords: '#B21889',
+    xcodeDeclarations: '#41A1C0',
+    xcodePlain: '#FFFFFF',
+    xcodeStrings: '#DB2C38',
   },
 
   fonts: {
