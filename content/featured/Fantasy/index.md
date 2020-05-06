@@ -13,5 +13,3 @@ showInProjects: true
 ---
 
 Lorem ipsum dolor sit amet, et duo vide dictas neglegentur. Cu intellegebat signiferumque vel. Dicam aeterno mediocrem vel at, pri explicari laboramus ut, eu diam virtute ocurreret mel. Id probo volumus disputationi mei, ad tantas recusabo voluptaria nec.
-
-Noster possim concludaturque vel ut. Ei modus comprehensam qui, eu amet soluta usu. Audiam diceret praesent et ius, ius modus inermis propriae at, per vivendum menandri dissentiet no. Cu suas unum reque his, adhuc eirmod tractatos quo ad. Ei mea eripuit reprimique. Pri ei quidam noster eripuit, ne dolor docendi nam.
