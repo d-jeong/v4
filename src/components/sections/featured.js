@@ -122,12 +122,11 @@ const StyledFeaturedImg = styled(Img)`
   `};
 `;
 const StyledImgContainer = styled.a`
-  ${mixins.boxShadow};
   grid-column: 6 / -1;
   grid-row: 1 / -1;
   position: relative;
   z-index: 1;
-  background-color: ${colors.accent};
+  background-color: ${colors.background};
   border-radius: ${theme.radius + 1}px;
   transition: ${theme.transition};
   ${media.tablet`height: 100%;`};
@@ -155,7 +154,6 @@ const StyledImgContainer = styled.a`
     bottom: 0;
     z-index: 3;
     transition: ${theme.transition};
-    background-color: ${colors.background};
     mix-blend-mode: screen;
   }
 `;
