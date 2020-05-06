@@ -1,9 +1,9 @@
 ---
-date: '4'
+date: '1'
 title: 'Barstool Sports'
-cover: './barstool.png'
+cover: './fantasy.png'
 github:
-external: 'https://apps.apple.com/us/app/barstool-sports/id456805313'
+external: 'https://onebite.app'
 tech:
   - Swift
   - Realm
