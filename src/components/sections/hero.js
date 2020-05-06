@@ -39,10 +39,10 @@ const StyledSubtitle = styled.h3`
   font-family: ${fonts.SFMono};
   line-height: 1.1;
   color: ${colors.xcodeComments};
-  ${media.desktop`font-size: 70px;`};
-  ${media.tablet`font-size: 60px;`};
-  ${media.phablet`font-size: 50px;`};
-  ${media.phone`font-size: 40px;`};
+  ${media.desktop`font-size: 35px;`};
+  ${media.tablet`font-size: 30px;`};
+  ${media.phablet`font-size: 25px;`};
+  ${media.phone`font-size: 20px;`};
 `;
 const StyledDescription = styled.div`
   margin-top: 25px;

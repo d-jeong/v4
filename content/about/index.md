@@ -2,11 +2,11 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - iOS Development
-  - Node.js
   - Swift
-  - Git
+  - Firebase
   - Objective-C
+  - Node.js
+  - Realm
   - Super Smash Bros
 ---
 
