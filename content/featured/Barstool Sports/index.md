@@ -12,4 +12,6 @@ tech:
 showInProjects: true
 ---
 
-Lorem ipsum dolor sit amet, et duo vide dictas neglegentur. Cu intellegebat signiferumque vel. Dicam aeterno mediocrem vel at, pri explicari laboramus ut, eu diam virtute ocurreret mel. Id probo volumus disputationi mei, ad tantas recusabo voluptaria nec.
+"By the Common Man, For The Common Man"
+
+The Barstool Sports app allows fans to follow all the action at The Stool—live video, podcasts, and blogs with the hottest takes from the most entertaining personalities on the internet.
