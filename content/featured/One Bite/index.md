@@ -12,4 +12,6 @@ tech:
 showInProjects: true
 ---
 
-Lorem ipsum dolor sit amet, et duo vide dictas neglegentur. Cu intellegebat signiferumque vel. Dicam aeterno mediocrem vel at, pri explicari laboramus ut, eu diam virtute ocurreret mel. Id probo volumus disputationi mei, ad tantas recusabo voluptaria nec.
+"One Bite. Everybody knows the rules."
+
+One Bite helps all pizza lovers to find the best slice out there. Check out what score Dave “El Presidente” Portnoy gave for your favorite local pizzeria!
