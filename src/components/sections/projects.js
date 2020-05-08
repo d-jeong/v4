@@ -126,7 +126,12 @@ const StyledMoreButton = styled(Button)`
   margin: 100px auto 0;
 `;
 
+const showProjects = false;
+
 const Projects = ({ data }) => {
+  if (!showProjects) {
+    return null;
+  }
   const [showMore, setShowMore] = useState(false);
   const revealTitle = useRef(null);
   const revealArchiveLink = useRef(null);
