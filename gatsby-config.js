@@ -19,7 +19,7 @@ module.exports = {
         name: 'BrittanyChiang',
         short_name: 'BrittanyChiang',
         start_url: '/',
-        background_color: config.colors.splashBackground,
+        background_color: config.colors.background,
         theme_color: config.colors.background,
         display: 'minimal-ui',
         icon: 'src/images/logo.png',
