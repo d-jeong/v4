@@ -1,15 +1,17 @@
 ---
 date: '2'
-title: 'Barstool Sports'
+title: 'ESPN'
 cover: './espn.png'
 github:
-external: 'https://onebite.app'
+external: 'https://apps.apple.com/us/app/espn-scorecenter/id317469184'
 tech:
+  - Objective-C
   - Swift
-  - Realm
-  - Brightcove
+  - Kotlin
   - Git
 showInProjects: true
 ---
 
-Lorem ipsum dolor sit amet, et duo vide dictas neglegentur. Cu intellegebat signiferumque vel. Dicam aeterno mediocrem vel at, pri explicari laboramus ut, eu diam virtute ocurreret mel. Id probo volumus disputationi mei, ad tantas recusabo voluptaria nec.
+“Serving Fans. Anytime. Anywhere.”
+
+Live events. Real-time scores. Latest highlights. Expert analysis. The ESPN app provides everything that a sports fan can ask for. Keep up with your hometown teams here!
