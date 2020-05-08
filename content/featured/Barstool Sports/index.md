@@ -12,6 +12,6 @@ tech:
 showInProjects: true
 ---
 
-"By the Common Man, For The Common Man"
+"By the Common Man, For the Common Man."
 
 The Barstool Sports app allows fans to follow all the action at The Stool—live video, podcasts, and blogs with the hottest takes from the most entertaining personalities on the internet.

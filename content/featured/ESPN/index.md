@@ -12,6 +12,6 @@ tech:
 showInProjects: true
 ---
 
-“Serving Fans. Anytime. Anywhere.”
+“Serving sports fans. Anytime. Anywhere.”
 
 Live events. Real-time scores. Latest highlights. Expert analysis. The ESPN app provides everything that a sports fan can ask for. Keep up with your hometown teams here!

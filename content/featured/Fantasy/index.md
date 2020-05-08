@@ -1,15 +1,17 @@
 ---
 date: '1'
-title: 'Barstool Sports'
+title: 'ESPN Fantasy Sports'
 cover: './fantasy.png'
 github:
-external: 'https://onebite.app'
+external: 'https://apps.apple.com/us/app/espn-fantasy-football/id555376968'
 tech:
+  - Objective-C
   - Swift
-  - Realm
-  - Brightcove
+  - Kotlin
   - Git
 showInProjects: true
 ---
 
-Lorem ipsum dolor sit amet, et duo vide dictas neglegentur. Cu intellegebat signiferumque vel. Dicam aeterno mediocrem vel at, pri explicari laboramus ut, eu diam virtute ocurreret mel. Id probo volumus disputationi mei, ad tantas recusabo voluptaria nec.
+Don't forget to set your line-up!
+
+Download ESPN Fantasy Sports to draft your dream team to kick some serious butt. And don't forget to brag about it to all your friends.
