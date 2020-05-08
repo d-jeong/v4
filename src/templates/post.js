@@ -40,6 +40,7 @@ const PostTemplate = ({ data, location }) => {
   const { title, date, tags } = frontmatter;
 
   return (
+    // TODO: change canonical href
     <Layout location={location}>
       <Helmet>
         <title>{title} | Brittany Chiang</title>

@@ -107,6 +107,7 @@ const ArchivePage = ({ location, data }) => {
   }, []);
 
   return (
+    // TODO: change canonical href
     <Layout location={location}>
       <Helmet>
         <title>Archive | Brittany Chiang</title>
