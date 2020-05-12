@@ -1,17 +1,13 @@
 module.exports = {
   siteTitle: 'David Jeong | Software Engineer',
   siteDescription:
-    // TODO: Write a description later
-    '',
+    'David is a software engineer based in New York City, specializing in iOS app development and dabbling in whatever catches his interest.',
   siteKeywords:
-    // TODO: Write keywords later
-    '',
-
-  // TODO: Write real url later
-  siteUrl: 'https://brittanychiang.com',
+    'David Jeong, David, Jeong, djeong, software engineer, ios engineer, software developer, ios developer, ios, swift, harvard',
+  siteUrl: 'https://djeong.dev',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: 'UA-166270011-1',
+  googleVerification: 'jI81cDeY2aWYl8PpUOqrJCmcMhGG93vnQsW_Qnni65A',
   name: 'David Jeong',
   location: 'New York, NY',
   email: 'davidycjeong@gmail.com',

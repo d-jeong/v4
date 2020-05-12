@@ -40,11 +40,10 @@ const PostTemplate = ({ data, location }) => {
   const { title, date, tags } = frontmatter;
 
   return (
-    // TODO: change canonical href
     <Layout location={location}>
       <Helmet>
-        <title>{title} | Brittany Chiang</title>
-        <link rel="canonical" href="https://brittanychiang.com/pensieve" />
+        <title>{title} | David Jeong</title>
+        <link rel="canonical" href="https://djeong.dev/pensieve" />
       </Helmet>
 
       <StyledPostContainer>
