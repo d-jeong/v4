@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'DavidJeong',
+        short_name: 'DavidJeong',
         start_url: '/',
         background_color: config.colors.background,
         theme_color: config.colors.background,
