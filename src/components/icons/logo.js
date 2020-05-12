@@ -1,6 +1,5 @@
 import React from 'react';
 
-// TODO: Don't use Shannon's logo
 const IconLogo = () => (
   <svg
     version="1.1"
