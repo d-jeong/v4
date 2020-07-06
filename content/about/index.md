@@ -3,11 +3,11 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - Swift
-  - Firebase
+  - SwiftUI
   - Objective-C
   - Node.js
   - Realm
-  - Super Smash Bros
+  - Super Smash Bros.
 ---
 
 Hello! I'm David, a software enginner based in New York City.
