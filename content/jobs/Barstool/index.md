@@ -3,7 +3,7 @@ date: '2019-05-04'
 title: 'iOS Software Engineer'
 company: 'Barstool Sports'
 location: 'New York City'
-range: 'Apr 2019 - Present'
+range: 'Apr 2019 - Sep 2020'
 url: 'https://www.barstoolsports.com/'
 ---
 
